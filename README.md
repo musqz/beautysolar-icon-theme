@@ -7,6 +7,9 @@ Solar-look icon theme for Linux desktops, based on BeautyLine.
 
 This repository is a canonical mirror to enable reproducible packaging and auditable provenance.
 
+![BeautySolar icons](images/BS1.png)
+![BeautySolar in app launcher](images/BS2.png)
+
 ## Installation
 
 ### From the AUR
