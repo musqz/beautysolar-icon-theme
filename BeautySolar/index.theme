@@ -39,13 +39,6 @@ MaxSize=256
 Context=Actions
 Type=Scalable
 
-[actions/scalable]
-Size=22
-MinSize=8
-MaxSize=256
-Context=Status
-Type=Scalable
-
 [apps/scalable]
 Size=96
 Context=Applications
