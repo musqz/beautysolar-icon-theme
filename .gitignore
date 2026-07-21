@@ -5,3 +5,4 @@ pkg/
 *.pkg.tar.zst
 *.pkg.tar.xz
 *.tar.gz
+.bashtask
