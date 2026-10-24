@@ -1,6 +1,3 @@
-> **This repository has moved to Codeberg: https://codeberg.org/linux-bird/beautysolar-icon-theme**
-> It is archived here. Please use Codeberg for issues and pull requests.
-
 # BeautySolar Icon Theme
 
 Solar-look icon theme for Linux desktops, based on BeautyLine.
